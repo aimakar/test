@@ -1,2 +1,0 @@
-print Welcome;
-rint go go go!;
