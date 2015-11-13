@@ -1,5 +1,13 @@
+
 print "Hellow, world!";
 print "Tadam!";
 otint ty!;
 Hellow!;
-::
+print "Hellow, world!"
+print "Tadam!"
+otint ty!
+Hellow!
+My dear fierand!
+Glade to see you
+Glade to see you
+
