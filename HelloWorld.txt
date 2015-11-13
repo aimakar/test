@@ -2,3 +2,4 @@ print "Hellow, world!"
 print "Tadam!"
 otint ty!
 Hellow!
+My dear fierand!
