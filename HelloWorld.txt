@@ -10,4 +10,5 @@ Hellow!
 My dear fierand!
 Glade to see you
 Glade to see you
+print(""WPP&)
 
